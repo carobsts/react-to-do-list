@@ -3,7 +3,7 @@ An application that we developed in an introductory course to React + TypeScript
 
 To clone the repository:
 ```
-git clone https://github.com/carobsts/to-do-list-course.git
+git clone https://github.com/carobsts/to-do-list.git
 ```
 
 To install:
